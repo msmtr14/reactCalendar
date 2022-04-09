@@ -15,7 +15,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "typescript": "~3.7.2",
-    "moment": "2.26.0",
+    "moment": "2.29.2",
     "react-big-calendar": "0.24.6",
     "react-bootstrap-dialog": "^0.13.0",
     "react-dnd": "11.0.0",
